@@ -1,4 +1,5 @@
 # whatsappbomb
+
 This script was made by SILENT-HACKER.
 
 ## *COMMANDS FOR INSTALLING*
