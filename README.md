@@ -1,4 +1,4 @@
-# whatsappbomb
+# *Whatsappbomb*
 
 This script was made by SILENT-HACKER.
 
